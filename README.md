@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
+
 <!--
 **gdilly95/gdilly95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
