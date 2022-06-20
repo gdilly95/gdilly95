@@ -1,9 +1,9 @@
 ### Hi there, I'm Gabriel Dilly! 👋
 
 - 🔭 Atualmente trabalho na Claro, Técnico em Telecomunicações
-- 🌱 Aprendendo Webfullstack na Escola Growdev
+- 🌱 Aprendendo Webfullstack na Escola Growdev, Formado como Téc. Redes de Computadores
 - 💬 Estudando CSS, HTML e Javascript
-- 🤔 Minhas linguagens favoritas são Javascript e Python
+- 🤔 Minhas linguagens favoritas são Javascript e Python até o momento
 - 😄 Pergunte-me sobre Infraestrutura de Redes e Dados
 - 📫 Como me Achar: Insta @gdilly95
 - ⚡ Fun fact: Minha banda favorita é Avenged Sevenfold
